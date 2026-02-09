@@ -1,2 +1,2 @@
 # coHA
-Computational Harmonic Analysis library
+Reference grade implementation of SO(3) harmonic analysis with custom CUDA kernels for equivariant GNNs.
